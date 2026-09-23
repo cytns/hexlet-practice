@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM partners;
+SELECT COUNT(*) FROM sales;
